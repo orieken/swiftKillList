@@ -1,0 +1,6 @@
+[submodule "lib/Quick"]
+	path = lib/Quick
+	url = https://github.com/Quick/Quick.git
+[submodule "lib/Nimble"]
+	path = lib/Nimble
+	url = https://github.com/Quick/Nimble.git
